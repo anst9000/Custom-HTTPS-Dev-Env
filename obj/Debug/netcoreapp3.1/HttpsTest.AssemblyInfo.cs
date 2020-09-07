@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("Custom-HTTPS-91ae7474-2289-4208-83e2-a8934a4ae2e9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpsTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

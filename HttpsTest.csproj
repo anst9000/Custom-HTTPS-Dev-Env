@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+		<UserSecretsId>Custom-HTTPS-91ae7474-2289-4208-83e2-a8934a4ae2e9</UserSecretsId>
   </PropertyGroup>
 
 
